@@ -170,3 +170,7 @@
 	path = libs/dynamic_bitset
 	url = ../dynamic_bitset.git
 	fetchRecurseSubmodules = on-demand
+[submodule "statechart"]
+	path = libs/statechart
+	url = ../statechart.git
+	fetchRecurseSubmodules = on-demand
