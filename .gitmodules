@@ -178,6 +178,10 @@
 	path = tools/boostbook
 	url = ../boostbook.git
 	fetchRecurseSubmodules = on-demand
+[submodule "ptr_container"]
+	path = libs/ptr_container
+	url = ../ptr_container.git
+	fetchRecurseSubmodules = on-demand
 [submodule "lambda"]
 	path = libs/lambda
 	url = ../lambda.git
