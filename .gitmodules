@@ -94,6 +94,10 @@
 	path = libs/pool
 	url = ../pool.git
 	fetchRecurseSubmodules = on-demand
+[submodule "math"]
+	path = libs/math
+	url = ../math.git
+	fetchRecurseSubmodules = on-demand
 [submodule "crc"]
 	path = libs/crc
 	url = ../crc.git
