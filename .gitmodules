@@ -142,6 +142,10 @@
 	path = libs/test
 	url = ../test.git
 	fetchRecurseSubmodules = on-demand
+[submodule "variant"]
+	path = libs/variant
+	url = ../variant.git
+	fetchRecurseSubmodules = on-demand
 [submodule "io"]
 	path = libs/io
 	url = ../io.git
