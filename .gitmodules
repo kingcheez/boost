@@ -150,6 +150,10 @@
 	path = libs/mpl
 	url = ../mpl.git
 	fetchRecurseSubmodules = on-demand
+[submodule "date_time"]
+	path = libs/date_time
+	url = ../date_time.git
+	fetchRecurseSubmodules = on-demand
 [submodule "lambda"]
 	path = libs/lambda
 	url = ../lambda.git
