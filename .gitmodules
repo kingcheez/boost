@@ -194,6 +194,10 @@
 	path = libs/optional
 	url = ../optional.git
 	fetchRecurseSubmodules = on-demand
+[submodule "range"]
+	path = libs/range
+	url = ../range.git
+	fetchRecurseSubmodules = on-demand
 [submodule "spirit"]
 	path = libs/spirit
 	url = ../spirit.git
