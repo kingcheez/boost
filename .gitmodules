@@ -102,6 +102,10 @@
 	path = libs/crc
 	url = ../crc.git
 	fetchRecurseSubmodules = on-demand
+[submodule "build"]
+	path = tools/build
+	url = ../build.git
+	fetchRecurseSubmodules = on-demand
 [submodule "any"]
 	path = libs/any
 	url = ../any.git
