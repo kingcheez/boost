@@ -182,6 +182,10 @@
 	path = libs/dynamic_bitset
 	url = ../dynamic_bitset.git
 	fetchRecurseSubmodules = on-demand
+[submodule "bcp"]
+	path = tools/bcp
+	url = ../bcp.git
+	fetchRecurseSubmodules = on-demand
 [submodule "statechart"]
 	path = libs/statechart
 	url = ../statechart.git
