@@ -138,3 +138,7 @@
 	path = libs/lambda
 	url = ../lambda.git
 	fetchRecurseSubmodules = on-demand
+[submodule "preprocessor"]
+	path = libs/preprocessor
+	url = ../preprocessor.git
+	fetchRecurseSubmodules = on-demand
