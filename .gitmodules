@@ -134,3 +134,7 @@
 	path = libs/mpl
 	url = ../mpl.git
 	fetchRecurseSubmodules = on-demand
+[submodule "lambda"]
+	path = libs/lambda
+	url = ../lambda.git
+	fetchRecurseSubmodules = on-demand
