@@ -126,6 +126,10 @@
 	path = libs/test
 	url = ../test.git
 	fetchRecurseSubmodules = on-demand
+[submodule "io"]
+	path = libs/io
+	url = ../io.git
+	fetchRecurseSubmodules = on-demand
 [submodule "bind"]
 	path = libs/bind
 	url = ../bind.git
