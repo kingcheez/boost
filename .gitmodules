@@ -214,6 +214,10 @@
 	path = libs/filesystem
 	url = ../filesystem.git
 	fetchRecurseSubmodules = on-demand
+[submodule "serialization"]
+	path = libs/serialization
+	url = ../serialization.git
+	fetchRecurseSubmodules = on-demand
 [submodule "multi_index"]
 	path = libs/multi_index
 	url = ../multi_index.git
