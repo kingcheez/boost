@@ -50,3 +50,7 @@
 	path = libs/array
 	url = ../array.git
 	fetchRecurseSubmodules = on-demand
+[submodule "graph"]
+	path = libs/graph
+	url = ../graph.git
+	fetchRecurseSubmodules = on-demand
