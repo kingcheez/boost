@@ -102,6 +102,10 @@
 	path = libs/crc
 	url = ../crc.git
 	fetchRecurseSubmodules = on-demand
+[submodule "tuple"]
+	path = libs/tuple
+	url = ../tuple.git
+	fetchRecurseSubmodules = on-demand
 [submodule "build"]
 	path = tools/build
 	url = ../build.git
