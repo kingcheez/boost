@@ -218,3 +218,7 @@
 	path = libs/algorithm
 	url = ../algorithm.git
 	fetchRecurseSubmodules = on-demand
+[submodule "program_options"]
+	path = libs/program_options
+	url = ../program_options.git
+	fetchRecurseSubmodules = on-demand
