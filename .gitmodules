@@ -158,6 +158,10 @@
 	path = libs/date_time
 	url = ../date_time.git
 	fetchRecurseSubmodules = on-demand
+[submodule "ublas"]
+	path = libs/numeric/ublas
+	url = ../ublas.git
+	fetchRecurseSubmodules = on-demand
 [submodule "lambda"]
 	path = libs/lambda
 	url = ../lambda.git
