@@ -6,6 +6,10 @@
 	path = libs/signals
 	url = ../signals.git
 	fetchRecurseSubmodules = on-demand
+[submodule "wave"]
+	path = libs/wave
+	url = ../wave.git
+	fetchRecurseSubmodules = on-demand
 [submodule "exception"]
 	path = libs/exception
 	url = ../exception.git
