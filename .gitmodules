@@ -162,6 +162,10 @@
 	path = libs/numeric/ublas
 	url = ../ublas.git
 	fetchRecurseSubmodules = on-demand
+[submodule "boostbook"]
+	path = tools/boostbook
+	url = ../boostbook.git
+	fetchRecurseSubmodules = on-demand
 [submodule "lambda"]
 	path = libs/lambda
 	url = ../lambda.git
