@@ -70,6 +70,10 @@
 	path = libs/property_map
 	url = ../property_map.git
 	fetchRecurseSubmodules = on-demand
+[submodule "static_assert"]
+	path = libs/static_assert
+	url = ../static_assert.git
+	fetchRecurseSubmodules = on-demand
 [submodule "regex"]
 	path = libs/regex
 	url = ../regex.git
