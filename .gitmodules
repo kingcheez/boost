@@ -234,6 +234,10 @@
 	path = libs/program_options
 	url = ../program_options.git
 	fetchRecurseSubmodules = on-demand
+[submodule "logic"]
+	path = libs/logic
+	url = ../logic.git
+	fetchRecurseSubmodules = on-demand
 [submodule "numeric_conversion"]
 	path = libs/numeric/conversion
 	url = ../numeric_conversion.git
