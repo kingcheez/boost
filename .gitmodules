@@ -258,6 +258,10 @@
 	path = libs/numeric/conversion
 	url = ../numeric_conversion.git
 	fetchRecurseSubmodules = on-demand
+[submodule "typeof"]
+	path = libs/typeof
+	url = ../typeof.git
+	fetchRecurseSubmodules = on-demand
 [submodule "quickbook"]
 	path = tools/quickbook
 	url = ../quickbook.git
