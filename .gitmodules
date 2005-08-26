@@ -258,6 +258,10 @@
 	path = libs/numeric/conversion
 	url = ../numeric_conversion.git
 	fetchRecurseSubmodules = on-demand
+[submodule "foreach"]
+	path = libs/foreach
+	url = ../foreach.git
+	fetchRecurseSubmodules = on-demand
 [submodule "typeof"]
 	path = libs/typeof
 	url = ../typeof.git
