@@ -226,6 +226,10 @@
 	path = libs/numeric/interval
 	url = ../interval.git
 	fetchRecurseSubmodules = on-demand
+[submodule "interprocess"]
+	path = libs/interprocess
+	url = ../interprocess.git
+	fetchRecurseSubmodules = on-demand
 [submodule "litre"]
 	path = tools/litre
 	url = ../litre.git
