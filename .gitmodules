@@ -290,6 +290,10 @@
 	path = tools/quickbook
 	url = ../quickbook.git
 	fetchRecurseSubmodules = on-demand
+[submodule "system"]
+	path = libs/system
+	url = ../system.git
+	fetchRecurseSubmodules = on-demand
 [submodule "fusion"]
 	path = libs/fusion
 	url = ../fusion.git
