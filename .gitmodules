@@ -10,6 +10,10 @@
 	path = libs/spirit
 	url = ../spirit.git
 	fetchRecurseSubmodules = on-demand
+[submodule "interprocess"]
+	path = libs/interprocess
+	url = ../interprocess.git
+	fetchRecurseSubmodules = on-demand
 [submodule "signals"]
 	path = libs/signals
 	url = ../signals.git
@@ -65,6 +69,10 @@
 [submodule "bind"]
 	path = libs/bind
 	url = ../bind.git
+	fetchRecurseSubmodules = on-demand
+[submodule "asio"]
+	path = libs/asio
+	url = ../asio.git
 	fetchRecurseSubmodules = on-demand
 [submodule "iterator"]
 	path = libs/iterator
@@ -281,4 +289,8 @@
 [submodule "variant"]
 	path = libs/variant
 	url = ../variant.git
+	fetchRecurseSubmodules = on-demand
+[submodule "fusion"]
+	path = libs/fusion
+	url = ../fusion.git
 	fetchRecurseSubmodules = on-demand
