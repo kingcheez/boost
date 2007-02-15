@@ -306,3 +306,7 @@
 	path = libs/asio
 	url = ../asio.git
 	fetchRecurseSubmodules = on-demand
+[submodule "function_types"]
+	path = libs/function_types
+	url = ../function_types.git
+	fetchRecurseSubmodules = on-demand
