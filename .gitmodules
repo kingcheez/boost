@@ -310,3 +310,7 @@
 	path = libs/function_types
 	url = ../function_types.git
 	fetchRecurseSubmodules = on-demand
+[submodule "gil"]
+	path = libs/gil
+	url = ../gil.git
+	fetchRecurseSubmodules = on-demand
