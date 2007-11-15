@@ -66,6 +66,10 @@
 	path = libs/integer
 	url = ../integer.git
 	fetchRecurseSubmodules = on-demand
+[submodule "litre"]
+	path = tools/litre
+	url = ../litre.git
+	fetchRecurseSubmodules = on-demand
 [submodule "spirit"]
 	path = libs/spirit
 	url = ../spirit.git
@@ -281,4 +285,8 @@
 [submodule "iostreams"]
 	path = libs/iostreams
 	url = ../iostreams.git
+	fetchRecurseSubmodules = on-demand
+[submodule "system"]
+	path = libs/system
+	url = ../system.git
 	fetchRecurseSubmodules = on-demand
