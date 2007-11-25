@@ -70,6 +70,10 @@
 	path = tools/litre
 	url = ../litre.git
 	fetchRecurseSubmodules = on-demand
+[submodule "property_tree"]
+	path = libs/property_tree
+	url = ../property_tree.git
+	fetchRecurseSubmodules = on-demand
 [submodule "spirit"]
 	path = libs/spirit
 	url = ../spirit.git
@@ -165,6 +169,14 @@
 [submodule "static_assert"]
 	path = libs/static_assert
 	url = ../static_assert.git
+	fetchRecurseSubmodules = on-demand
+[submodule "circular_buffer"]
+	path = libs/circular_buffer
+	url = ../circular_buffer.git
+	fetchRecurseSubmodules = on-demand
+[submodule "mpi"]
+	path = libs/mpi
+	url = ../mpi.git
 	fetchRecurseSubmodules = on-demand
 [submodule "any"]
 	path = libs/any
@@ -286,7 +298,35 @@
 	path = libs/iostreams
 	url = ../iostreams.git
 	fetchRecurseSubmodules = on-demand
+[submodule "bimap"]
+	path = libs/bimap
+	url = ../bimap.git
+	fetchRecurseSubmodules = on-demand
+[submodule "function_types"]
+	path = libs/function_types
+	url = ../function_types.git
+	fetchRecurseSubmodules = on-demand
+[submodule "asio"]
+	path = libs/asio
+	url = ../asio.git
+	fetchRecurseSubmodules = on-demand
+[submodule "fusion"]
+	path = libs/fusion
+	url = ../fusion.git
+	fetchRecurseSubmodules = on-demand
+[submodule "intrusive"]
+	path = libs/intrusive
+	url = ../intrusive.git
+	fetchRecurseSubmodules = on-demand
+[submodule "interprocess"]
+	path = libs/interprocess
+	url = ../interprocess.git
+	fetchRecurseSubmodules = on-demand
 [submodule "system"]
 	path = libs/system
 	url = ../system.git
+	fetchRecurseSubmodules = on-demand
+[submodule "gil"]
+	path = libs/gil
+	url = ../gil.git
 	fetchRecurseSubmodules = on-demand
