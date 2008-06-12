@@ -330,3 +330,7 @@
 	path = libs/gil
 	url = ../gil.git
 	fetchRecurseSubmodules = on-demand
+[submodule "unordered"]
+	path = libs/unordered
+	url = ../unordered.git
+	fetchRecurseSubmodules = on-demand
