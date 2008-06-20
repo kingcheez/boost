@@ -322,6 +322,10 @@
 	path = libs/intrusive
 	url = ../intrusive.git
 	fetchRecurseSubmodules = on-demand
+[submodule "units"]
+	path = libs/units
+	url = ../units.git
+	fetchRecurseSubmodules = on-demand
 [submodule "interprocess"]
 	path = libs/interprocess
 	url = ../interprocess.git
