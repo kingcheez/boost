@@ -62,6 +62,10 @@
 	path = libs/utility
 	url = ../utility.git
 	fetchRecurseSubmodules = on-demand
+[submodule "accumulators"]
+	path = libs/accumulators
+	url = ../accumulators.git
+	fetchRecurseSubmodules = on-demand
 [submodule "integer"]
 	path = libs/integer
 	url = ../integer.git
