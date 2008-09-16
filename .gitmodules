@@ -338,6 +338,10 @@
 	path = libs/gil
 	url = ../gil.git
 	fetchRecurseSubmodules = on-demand
+[submodule "proto"]
+	path = libs/proto
+	url = ../proto.git
+	fetchRecurseSubmodules = on-demand
 [submodule "unordered"]
 	path = libs/unordered
 	url = ../unordered.git
