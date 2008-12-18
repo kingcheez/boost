@@ -346,3 +346,7 @@
 	path = libs/unordered
 	url = ../unordered.git
 	fetchRecurseSubmodules = on-demand
+[submodule "flyweight"]
+	path = libs/flyweight
+	url = ../flyweight.git
+	fetchRecurseSubmodules = on-demand
