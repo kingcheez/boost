@@ -326,6 +326,10 @@
 	path = libs/intrusive
 	url = ../intrusive.git
 	fetchRecurseSubmodules = on-demand
+[submodule "polygon"]
+	path = libs/polygon
+	url = ../polygon.git
+	fetchRecurseSubmodules = on-demand
 [submodule "units"]
 	path = libs/units
 	url = ../units.git
