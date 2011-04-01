@@ -358,6 +358,10 @@
 	path = libs/flyweight
 	url = ../flyweight.git
 	fetchRecurseSubmodules = on-demand
+[submodule "geometry"]
+	path = libs/geometry
+	url = ../geometry.git
+	fetchRecurseSubmodules = on-demand
 [submodule "uuid"]
 	path = libs/uuid
 	url = ../uuid.git
