@@ -22,6 +22,10 @@
 	path = libs/timer
 	url = ../timer.git
 	fetchRecurseSubmodules = on-demand
+[submodule "move"]
+	path = libs/move
+	url = ../move.git
+	fetchRecurseSubmodules = on-demand
 [submodule "signals"]
 	path = libs/signals
 	url = ../signals.git
