@@ -394,3 +394,7 @@
 	path = libs/chrono
 	url = ../chrono.git
 	fetchRecurseSubmodules = on-demand
+[submodule "locale"]
+	path = libs/locale
+	url = ../locale.git
+	fetchRecurseSubmodules = on-demand
