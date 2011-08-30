@@ -366,6 +366,10 @@
 	path = libs/flyweight
 	url = ../flyweight.git
 	fetchRecurseSubmodules = on-demand
+[submodule "container"]
+	path = libs/container
+	url = ../container.git
+	fetchRecurseSubmodules = on-demand
 [submodule "phoenix"]
 	path = libs/phoenix
 	url = ../phoenix.git
