@@ -338,6 +338,10 @@
 	path = libs/polygon
 	url = ../polygon.git
 	fetchRecurseSubmodules = on-demand
+[submodule "heap"]
+	path = libs/heap
+	url = ../heap.git
+	fetchRecurseSubmodules = on-demand
 [submodule "units"]
 	path = libs/units
 	url = ../units.git
