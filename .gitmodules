@@ -402,6 +402,10 @@
 	path = libs/ratio
 	url = ../ratio.git
 	fetchRecurseSubmodules = on-demand
+[submodule "context"]
+	path = libs/context
+	url = ../context.git
+	fetchRecurseSubmodules = on-demand
 [submodule "chrono"]
 	path = libs/chrono
 	url = ../chrono.git
