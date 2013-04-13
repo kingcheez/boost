@@ -166,6 +166,10 @@
 	path = libs/tr1
 	url = ../tr1.git
 	fetchRecurseSubmodules = on-demand
+[submodule "log"]
+	path = libs/log
+	url = ../log.git
+	fetchRecurseSubmodules = on-demand
 [submodule "multi_array"]
 	path = libs/multi_array
 	url = ../multi_array.git
