@@ -18,6 +18,10 @@
 	path = tools/quickbook
 	url = ../quickbook.git
 	fetchRecurseSubmodules = on-demand
+[submodule "log"]
+	path = libs/log
+	url = ../log.git
+	fetchRecurseSubmodules = on-demand
 [submodule "regex"]
 	path = libs/regex
 	url = ../regex.git
