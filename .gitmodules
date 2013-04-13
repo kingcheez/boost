@@ -170,6 +170,10 @@
 	path = libs/multi_index
 	url = ../multi_index.git
 	fetchRecurseSubmodules = on-demand
+[submodule "log"]
+	path = libs/log
+	url = ../log.git
+	fetchRecurseSubmodules = on-demand
 [submodule "parameter"]
 	path = libs/parameter
 	url = ../parameter.git
