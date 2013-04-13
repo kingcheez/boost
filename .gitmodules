@@ -6,6 +6,10 @@
 	path = libs/fusion
 	url = ../fusion.git
 	fetchRecurseSubmodules = on-demand
+[submodule "log"]
+	path = libs/log
+	url = ../log.git
+	fetchRecurseSubmodules = on-demand
 [submodule "scope_exit"]
 	path = libs/scope_exit
 	url = ../scope_exit.git
