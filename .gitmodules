@@ -38,6 +38,10 @@
 	path = libs/locale
 	url = ../locale.git
 	fetchRecurseSubmodules = on-demand
+[submodule "log"]
+	path = libs/log
+	url = ../log.git
+	fetchRecurseSubmodules = on-demand
 [submodule "fusion"]
 	path = libs/fusion
 	url = ../fusion.git
