@@ -242,6 +242,10 @@
 	path = libs/algorithm
 	url = ../algorithm.git
 	fetchRecurseSubmodules = on-demand
+[submodule "log"]
+	path = libs/log
+	url = ../log.git
+	fetchRecurseSubmodules = on-demand
 [submodule "numeric_conversion"]
 	path = libs/numeric/conversion
 	url = ../numeric_conversion.git
