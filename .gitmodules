@@ -66,6 +66,10 @@
 	path = libs/utility
 	url = ../utility.git
 	fetchRecurseSubmodules = on-demand
+[submodule "type_erasure"]
+	path = libs/type_erasure
+	url = ../type_erasure.git
+	fetchRecurseSubmodules = on-demand
 [submodule "accumulators"]
 	path = libs/accumulators
 	url = ../accumulators.git
