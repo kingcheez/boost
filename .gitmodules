@@ -222,3 +222,11 @@
 	path = libs/mpl
 	url = https://github.com/boostorg/mpl.git
 	fetchRecurseSubmodules = on-demand
+[submodule "libs/function_types"]
+	path = libs/function_types
+	url = https://github.com/boostorg/function_types.git
+	fetchRecurseSubmodules = on-demand
+[submodule "libs/atomic"]
+	path = libs/atomic
+	url = https://github.com/boostorg/atomic.git
+	fetchRecurseSubmodules = on-demand
